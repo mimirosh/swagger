@@ -3,8 +3,6 @@ info:
   title: Catalogs API
   version: 1.15.0
   description: |
-    Open source clients:
-    - [pc-client-slim](https://github.com/alex-ello/pc-client-slim) PHP based opensource client
 security:
   - ApiKey: []
 tags:
