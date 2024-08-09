@@ -3,6 +3,8 @@ info:
   title: Catalogs API
   version: 1.15.0
   description: |
+servers:
+  url: https://api.vinspectr.com/v1
 security:
   - ApiKey: []
 tags:
