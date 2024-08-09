@@ -11,7 +11,7 @@ window.onload = function() {
       SwaggerUIBundle.plugins.DownloadUrl
     ],
     layout: "StandaloneLayout",
-    configUrl: null // Отключение поля URL
+    //configUrl: null // Отключение поля URL
   });
 
   window.ui = ui;
